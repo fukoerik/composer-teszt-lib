@@ -17,6 +17,5 @@
     "require": {
         "php": "^7.4"
     },
-    "version": "stable",
-    "prefer-stable": true
+    "minimum-stability": "dev"
 }
