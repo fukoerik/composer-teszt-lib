@@ -4,20 +4,19 @@
     "type": "library",
     "license": "MIT",
     "authors": [
-      {
-        "name": "Fűkő Erik",
-        "email": "erik.fuko@szitar.hu"
-      }
+        {
+            "name": "Fűkő Erik",
+            "email": "erik.fuko@szitar.hu"
+        }
     ],
     "autoload": {
-      "psr-4": {
-        "Example\\Library\\": "src/"
-      }
+        "psr-4": {
+            "Example\\Library\\": "src/"
+        }
     },
     "require": {
-      "php": "^7.4",
-      "felhasznalo/composer-teszt-lib": "1.0.0"
+        "php": "^7.4"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
-  }
+}
