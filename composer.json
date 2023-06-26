@@ -2,10 +2,7 @@
     "name": "felhasznalo/composer-teszt-lib",
     "description": "Ez egy példa Composer library.",
     "type": "library",
-    "versions": [
-        "1.0.0",
-        "1.0.1"
-    ],
+    "version": "1.0.1",
     "license": "MIT",
     "authors": [
         {
@@ -22,5 +19,9 @@
         "php": "^7.3"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "repositories": {
+        "type": "composer",
+        "url": "https://github.com/fukoerik/composer-teszt-lib"
+    }
 }
