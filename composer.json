@@ -2,7 +2,10 @@
     "name": "felhasznalo/composer-teszt-lib",
     "description": "Ez egy példa Composer library.",
     "type": "library",
-    "version": "1.0.0",
+    "versions": [
+        "1.0.0",
+        "1.0.1"
+    ],
     "license": "MIT",
     "authors": [
         {
