@@ -1,6 +1,6 @@
 {
     "name": "felhasznalo/composer-teszt-lib",
-    "description": "Ez egy példa Composer library.",
+    "description": "Ez egy teszt Composer library.",
     "type": "library",
     "license": "MIT",
     "authors": [
