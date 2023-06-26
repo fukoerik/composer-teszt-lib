@@ -1,6 +1,6 @@
 {
     "name": "felhasznalo/composer-teszt-lib",
-    "description": "Ez egy teszt Composer library.",
+    "description": "Ez egy példa Composer library.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,7 +15,8 @@
       }
     },
     "require": {
-      "php": "^7.4"
+      "php": "^7.4",
+      "felhasznalo/composer-teszt-lib": "1.0.0"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
